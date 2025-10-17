@@ -1,0 +1,16 @@
+{
+  "name": "order-summary-component-main",
+  "version": "1.0.0",
+  "description": "fornten mentor project take with tailwind css first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "Riyad Mahmud",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.14",
+    "tailwindcss": "^4.1.14"
+  }
+}
